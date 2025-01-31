@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Smith Sandoval</h1>
 <h3 align="center">Soy un desarrollador de software apasionado por demostrar mis conocimientos</h3>
 
-- 💬 Ask me about **html, css, javascript, mysql, angular**
+- 💬 Ask me about **html, css, javascript, mysql, angular, php, laravel**
 
 - 📫 How to reach me **josuecs2207@gmail.com**
 
